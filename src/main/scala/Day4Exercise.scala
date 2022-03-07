@@ -9,5 +9,4 @@ val WorkYears = readLine("How many years are you working in your firm?").toInt
     println(s"Your Christmas bonus is $Bonus")
   }
   else { println("You don't get a bonus!")}
-
 }
